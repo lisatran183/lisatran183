@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+Hi, I'm currently working toward my Master’s in Data Analytics at Northeastern University, where I’ve been building skills in SQL, Python, R, Excel, and Tableau. I've enjoyed working on projects that involve creating dashboards, running predictive models, and using data to better support business decisions. I'm now looking for a Data Analyst internship, part-time, or full-time role where I can keep learning and contribute to real-world scenarios through data and storytelling.
 <!--
 **lisatran183/lisatran183** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
